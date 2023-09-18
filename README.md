@@ -1,10 +1,10 @@
 # WritesonicChatBot
 Telegram chat bot like ChapGPT based on Writesonic API
 
-The bot is deployed in Docker on CentOS7, with a SQLite base.
+~~The bot is deployed in Docker on CentOS7, with a SQLite base.~~
 
-Bot is here:
-**https://t.me/WritesonicChatBot**
+~~Bot is here:
+**https://t.me/WritesonicChatBot**~~
 
 ![image](https://user-images.githubusercontent.com/63075175/221376458-3cd836b2-ca9f-4fe2-9527-e91977f6914b.png)
 
